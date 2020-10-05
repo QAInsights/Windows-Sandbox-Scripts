@@ -14,4 +14,4 @@
 - Clone this repository and copy the [Apache JMeter](/JMeter) files into `C:\Sandbox`
 - Launch `jmeter.wsb`
 
-Estimated Time to complete : 10-15 mins
+⌛ Estimated Time to complete : 10-15 mins

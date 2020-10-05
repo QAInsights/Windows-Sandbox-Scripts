@@ -15,4 +15,4 @@
 - Clone this repository and copy the [VuGen](/VuGen) files into `C:\Sandbox`
 - Launch `VuGen.wsb`
 
-Estimated Time to complete : 10-15 mins
+⌛ Estimated Time to complete : 10-15 mins
