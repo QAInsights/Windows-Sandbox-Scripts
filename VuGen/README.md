@@ -14,3 +14,5 @@
 - Keep the downloaded VuGen exe file into `C:\Sandbox`
 - Clone this repository and copy the [VuGen](/VuGen) files into `C:\Sandbox`
 - Launch `VuGen.wsb`
+
+Estimated Time to complete : 10-15 mins

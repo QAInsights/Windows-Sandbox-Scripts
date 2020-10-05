@@ -13,3 +13,5 @@
 - Create a host folder in your local machine e.g. `C:\Sandbox`
 - Clone this repository and copy the [Apache JMeter](/JMeter) files into `C:\Sandbox`
 - Launch `jmeter.wsb`
+
+Estimated Time to complete : 10-15 mins
