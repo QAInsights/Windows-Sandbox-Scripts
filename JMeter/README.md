@@ -11,6 +11,5 @@
 
 - Download the intended version of VuGen from the [Micro Focus Marketplace](https://marketplace.microfocus.com).
 - Create a host folder in your local machine e.g. `C:\Sandbox`
-- Keep the downloaded VuGen exe file into `C:\Sandbox`
-- Clone this repository and copy the [VuGen](/VuGen) files into `C:\Sandbox`
-- Launch `VuGen.wsb`
+- Clone this repository and copy the [Apache JMeter](/JMeter) files into `C:\Sandbox`
+- Launch `jmeter.wsb`
