@@ -16,3 +16,7 @@
 - Launch `VuGen.wsb`
 
 ⌛ Estimated Time to complete : 10-15 mins
+
+## Contributions
+
+🙏 All kinds of contributions are welcome.
