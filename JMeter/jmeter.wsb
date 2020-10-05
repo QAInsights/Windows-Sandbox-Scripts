@@ -1,0 +1,13 @@
+<Configuration>
+    <VGpu>Enable</VGpu>
+    <Networking>Enable</Networking>
+    <MappedFolders>
+        <MappedFolder>
+              <HostFolder>C:\Sandbox</HostFolder>
+              <ReadOnly>false</ReadOnly>
+        </MappedFolder>
+    </MappedFolders>
+    <LogonCommand>
+    <Command>C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -sta -WindowStyle Hidden -noprofile -executionpolicy unrestricted -file "C:\Users\WDAGUtilityAccount\Desktop\Sandbox\jmeter.ps1" </Command>
+    </LogonCommand>
+</Configuration>
